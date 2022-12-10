@@ -13,3 +13,11 @@
 - strong background in  Word and Excel
 - ability to work efficiently both individually and in a team  
 - knowledge in the field of HTML, CSS and JS
+## Self-Management Skills
+- Responsible 
+- Creative
+- Assertive 
+- Intelligent
+- Pleasant
+- Sociable 
+- Willing to learn new things 
