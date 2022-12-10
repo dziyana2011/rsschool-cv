@@ -6,8 +6,8 @@
 - 80298221003 
 - email:diana.sharik2011@gmail.com 
 ## My education
-Belorussian state university
-lawyer
+Belorussian state university, lawyer
+IT-academy, course HTML and CSS
 ## Job skils
 - excellent verbal and written communication  skills in English
 - strong background in  Word and Excel
