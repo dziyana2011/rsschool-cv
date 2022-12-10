@@ -25,3 +25,10 @@ lawyer
 - intermediate
 ## work experience
 - training courses in IT-academy, studing layout.  
+## Code example
+```
+if (условие)
+   инструкция1
+[else
+   инструкция2]
+```   
