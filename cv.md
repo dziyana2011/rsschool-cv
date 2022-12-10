@@ -1,13 +1,13 @@
 # Dziyana Sharakhouskaya
-### Student of RSScool stage-0
+## Student of RSScool stage-0
 ********************************** 
-### + Contacts    
+## + Contacts    
 - Belarus Minsk 
 - 80298221003 
 - email:diana.sharik2011@gmail.com 
-# My education
-### Belorussian state university
-### lawyer
+## My education
+Belorussian state university
+lawyer
 ## Job skils
 - excellent verbal and written communication  skills in English
 - strong background in  Word and Excel
