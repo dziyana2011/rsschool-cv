@@ -8,3 +8,8 @@
 # My education
 ### Belorussian state university
 ### lawyer
+## Job skils
+- excellent verbal and written communication  skills in English
+- strong background in  Word and Excel
+- ability to work efficiently both individually and in a team  
+- knowledge in the field of HTML, CSS and JS
