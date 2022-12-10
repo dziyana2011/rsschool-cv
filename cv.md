@@ -7,4 +7,4 @@
 - email:diana.sharik2011@gmail.com 
 # My education
 ### Belorussian state university
-###lawyer
+### lawyer
