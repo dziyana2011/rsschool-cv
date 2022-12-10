@@ -21,3 +21,5 @@ lawyer
 - Pleasant
 - Sociable 
 - Willing to learn new things 
+## Level of English
+- intermediate
