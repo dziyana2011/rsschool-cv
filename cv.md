@@ -24,7 +24,7 @@
 - Willing to learn new things 
 ## Level of English
 - intermediate
-## work experience
+## Work experience
 - training courses in IT-academy, studing layout.  
 ## Code example
 ```
