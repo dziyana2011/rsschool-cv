@@ -23,3 +23,5 @@ lawyer
 - Willing to learn new things 
 ## Level of English
 - intermediate
+## work experience
+- training courses in IT-academy, studing layout.  
